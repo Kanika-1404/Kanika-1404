@@ -1,6 +1,6 @@
 <h3 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="120px"> </h3>
  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=&color=%239BC3A7&size=31&center=true&lines= Hey!+I+am+Kanika+Chaurasia  "/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=&color=%239BC3A7&size=31&center=true&lines=Hey!+I+am+Kanika+Chaurasia"/>
 </p>
 </h3>
 
@@ -59,6 +59,10 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=38CC77)
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+C
+
+Python
 
 🧑‍💻Machine Learning <br> <br>
 <br>
