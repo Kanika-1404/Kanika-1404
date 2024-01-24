@@ -54,15 +54,15 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-![Kotlin](https://img.shields.io/badge/kotlin-333333?style=flat&logo=KOTLIN&logoColor=7B68EE)
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=38CC77)
-
+<!-- ![Kotlin](https://img.shields.io/badge/kotlin-333333?style=flat&logo=KOTLIN&logoColor=7B68EE)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=38CC77) -->
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 C
 
 Python
+
+Java
 
 🧑‍💻Machine Learning <br> <br>
 <br>
