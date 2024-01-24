@@ -38,7 +38,7 @@
    - 💪 Strengthening Web Development
    - ⚡ Fun fact: Always ready to learn new skills 
    - 📫 Mail - kanikakanikachaurasia03@gmail.com 
-   - 🔗 Linkedin - 
+   - 🔗 Linkedin - https://www.linkedin.com/in/kanika-chaurasia-s13868257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <br> <br>
 
@@ -52,12 +52,12 @@
 <!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<!-- ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Kotlin](https://img.shields.io/badge/kotlin-333333?style=flat&logo=KOTLIN&logoColor=7B68EE)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=38CC77)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) -->
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 🧑‍💻Machine Learning <br> <br>
 <br>
 
